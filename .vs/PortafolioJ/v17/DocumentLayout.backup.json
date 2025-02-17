@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\300027\\desktop\\proyectos\\portafolioj\\portafolioj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\300027\\desktop\\proyectos\\portafolioj\\portafolioj\\servicios\\respositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\servicios\\respositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\300027\\desktop\\proyectos\\portafolioj\\portafolioj\\wwwroot\\css\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\wwwroot\\css\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RespositorioProyectos.cs",
+              "DocumentMoniker": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\servicios\\RespositorioProyectos.cs",
+              "RelativeDocumentMoniker": "PortafolioJ\\servicios\\RespositorioProyectos.cs",
+              "ToolTip": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\servicios\\RespositorioProyectos.cs",
+              "RelativeToolTip": "PortafolioJ\\servicios\\RespositorioProyectos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:47:23.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PortafolioJ\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PortafolioJ\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:52:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "PortafolioJ\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\300027\\Desktop\\proyectos\\PortafolioJ\\PortafolioJ\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "PortafolioJ\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-13T19:40:24.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

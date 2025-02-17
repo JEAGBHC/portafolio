@@ -1,0 +1,56 @@
+﻿#foto {
+    width: 150px;
+    margin: 2rem 0;
+    border-radius: 40%
+}
+
+.seccion-bienvenida {
+    margin: 3rem 10rem 0;
+    color: white;
+}
+
+    .seccion-bienvenida h1 {
+        margin: 1rem 1rem 2rem;
+    }
+
+    .seccion-bienvenida p {
+        font-family: 'Times New Roman', Times, serif;
+        line-height: 1.5;
+        font-size: 1.2rem;
+
+    }
+#imagen-dontnet3{
+   width: 100px;
+   height: auto;
+   margin: 1rem 0 -1rem;
+}
+
+#imagen-dontnet2 {
+    width: 125px;
+    height: auto;
+    margin: 0 0 0;
+}
+
+#imagen-dontnet1 {
+    width: 155px;
+    height: auto;
+    margin: 1.8rem 0 0;
+}
+.cabecera{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+
+}
+.habilidades ul{
+    list-style:none;
+    padding-left:0;
+}
+
+.habilidades i{
+    font-size: 30px;
+    color:blue;
+}
+
+.PRealizados card{
+    width: 200px; 
+}
